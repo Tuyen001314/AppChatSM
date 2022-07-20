@@ -35,7 +35,7 @@
             android:padding="7dp"
             android:text="01:23"
             android:textColor="@color/white"
-            android:textSize="10sp" />
+            android:textSize="8sp" />
 
 
     </RelativeLayout>
